@@ -28,7 +28,7 @@ Spuštění a průběh
 ![image](https://user-images.githubusercontent.com/91487732/150674911-b6f7596a-0c8e-4929-90dc-ff46410436fd.png)
 
 # Částečný výstup
-Celý výstup je přiložen tady: [nazev_celku.csv](https://github.com/Bednicka2/Engeto_Project_3/files/7920293/nazev_celku.csv)
+Celý výstup je přiložen tady: [nazev_celku.csv](https://github.com/Bednicka2/Engeto_Project_3/blob/462bfbfd626272e82431b6d82c991fea87ed2609/nazev_celku.csv)
 
 ![image](https://user-images.githubusercontent.com/91487732/150675034-7421439c-35a7-45be-8436-75f70c087013.png)
 
