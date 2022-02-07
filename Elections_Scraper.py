@@ -11,8 +11,9 @@ def main():
     nazev = sys.argv[2]
     try:
         stahovani(url, nazev)
-    except:
+    except Exception as e:
         print("CHYBA V ARGUMENTECH, UKONČUJI APLIKACI.")
+        print(e)
         quit()
 
 
