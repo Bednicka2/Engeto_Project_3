@@ -16,7 +16,7 @@ Pro instalaci doporučuji použít nové virtuální prostředí a nainstalovat 
 # Spuštění projektu
 Pro spušťení projektu v příkazovém řádku je potřeba zadat 2 argumenty. Prvním je url vybraného okresu, druhým je požadovaný název výstupu, včetně koncovky .csv
 
-python Elections_Scraper <odkaz na vypraný okres> <název souboru.csv>
+python Elections_Scraper <odkaz na vybraný okres> <název souboru.csv>
 
 # Ukázka projektu
 
